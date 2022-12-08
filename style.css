@@ -1,6 +1,6 @@
 .header {
     background-color: #1f2937;
-
+    
 }
 
 .logo {
@@ -56,7 +56,7 @@ h2 {
 
 .very-top {
     display: flex;
-    justify-content: space-bet;
+    justify-content: space-around;
 }
 
 .header-links {
