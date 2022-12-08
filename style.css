@@ -65,3 +65,11 @@ h2 {
     gap: 20px;
 }
 
+.hero {
+    display: flex;
+}
+
+.left-hero {
+    display: flex;
+    flex-direction: column;
+}
