@@ -28,6 +28,7 @@ a {
 .subtext {
     font-size: 18px;
     color: #e5e7eb;
+    margin-top:
 }
 
 button,.call-to-action {
@@ -50,9 +51,7 @@ h2 {
 }
 
 .header-image {
-    max-width: 
     height: auto;
-    width ;
 }
 
 .very-top {
@@ -68,6 +67,9 @@ h2 {
 
 .hero {
     display: flex;
+    justify-content: space-around;
+    padding-top: 70px;
+    padding-bottom: 70px;
 }
 
 .left-hero {
