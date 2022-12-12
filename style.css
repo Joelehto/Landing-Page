@@ -45,6 +45,9 @@ h2 {
 
 .quote {
     background-color: #e5e7eb;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    
 }
 
 .quote-text {
@@ -89,6 +92,7 @@ button {
     display: flex;
     justify-content: center;
     gap: 50px;
+    margin: 100px;
 }
 
 .body-images {
@@ -96,4 +100,5 @@ button {
     flex-direction: column;
     flex-shrink: 1;
     width: 250px;
+    margin: ;
 }
