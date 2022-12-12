@@ -121,4 +121,12 @@ button {
     margin-left: 250px;
     margin-right: 250px;
     color: white;
+    display: flex;
 }
+
+.left-call {
+    display: flex;
+    flex-direction: column;
+}
+
+
