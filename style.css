@@ -123,11 +123,20 @@ button {
     color: white;
     display: flex;
     justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    gap: 80px;
 }
 
 .left-call {
     display: flex;
     flex-direction: column;
+}
+
+.call-button {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 
