@@ -109,4 +109,8 @@ button {
     margin: ;
 }
 
-
+.thor {
+    display: flex;
+    justify-content: flex-end;
+    font-weight: bold;
+}
