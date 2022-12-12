@@ -39,6 +39,8 @@ h2 {
     font-size: 36px;
     font-weight: bold;
     color: #1f2937;
+    display: flex;
+    justify-content: center;
 }
 
 .quote {
@@ -81,4 +83,13 @@ h2 {
 
 button {
     width: 80px;
+}
+
+.info {
+    display: flex;
+}
+
+.body-images {
+    display: flex;
+    flex-direction: column;
 }
