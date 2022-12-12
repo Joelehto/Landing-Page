@@ -114,3 +114,11 @@ button {
     justify-content: flex-end;
     font-weight: bold;
 }
+
+.call-to-action {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 250px;
+    margin-right: 250px;
+    color: white;
+}
