@@ -123,9 +123,9 @@ button {
     color: white;
     display: flex;
     justify-content: center;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    gap: 80px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    gap: 130px;
 }
 
 .left-call {
@@ -137,6 +137,15 @@ button {
     display: flex;
     flex-direction: column;
     justify-content: center;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    background-color: #1f2937;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
 }
 
 
